@@ -2,7 +2,7 @@ aid: convention-over-configuration
 url: >-
   https://raw.githubusercontent.com/api-evangelist/convention-over-configuration/refs/heads/main/apis.yml
 name: Convention Over Configuration
-x-type: topic
+kind: topic
 description: >-
   Convention over Configuration (CoC) is a software design principle that
   prefers sensible defaults and standard patterns over explicit, repetitive
