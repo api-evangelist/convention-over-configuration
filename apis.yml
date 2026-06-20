@@ -13,7 +13,7 @@ description: >-
   astonishment and conventions in JavaBeans, Maven, and other Java
   ecosystems. The principle continues to shape modern frameworks such as
   Spring Boot, Next.js, Astro, Phoenix, Ember, Hugo, and Remix.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Conventions
   - Design Principle
