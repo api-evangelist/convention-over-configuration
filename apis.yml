@@ -154,6 +154,10 @@ apis:
       - Building documentation sites with little setup
       - Producing fast static sites with default conventions
 common:
+  - type: VulnerabilityDisclosure
+    url: security/convention-over-configuration-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/convention-over-configuration-domain-security.yml
   - type: Reference
     url: https://en.wikipedia.org/wiki/Convention_over_configuration
   - type: Reference
