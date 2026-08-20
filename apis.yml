@@ -98,6 +98,10 @@ apis:
     humanURL: https://maven.apache.org/
     baseURL: https://maven.apache.org
     tags:
+      - Builds
+      - Java
+      - Maven
+    tags_raw:
       - Build
       - Java
       - Maven
