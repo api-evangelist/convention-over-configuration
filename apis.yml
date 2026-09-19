@@ -40,6 +40,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/convention
 tags:
   - Conventions
   - Design Principle
+  - Framework
+  - Software Design
+tags_raw:
+  - Conventions
+  - Design Principle
   - Frameworks
   - Software Design
 created: '2025-01-01'
@@ -56,6 +61,10 @@ apis:
     humanURL: https://rubyonrails.org/
     baseURL: https://rubyonrails.org
     tags:
+      - Active Record
+      - Rail
+      - Ruby
+    tags_raw:
       - Active Record
       - Rails
       - Ruby
