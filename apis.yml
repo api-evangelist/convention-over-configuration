@@ -48,7 +48,7 @@ tags_raw:
   - Frameworks
   - Software Design
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: convention-over-configuration:rails
@@ -190,6 +190,10 @@ apis:
       - Building documentation sites with little setup
       - Producing fast static sites with default conventions
 common:
+  - url: https://rubyonrails.org/blog/
+    type: Blog
+  - url: https://rubyonrails.org/feed.xml
+    type: BlogRSS
   - type: VulnerabilityDisclosure
     url: security/convention-over-configuration-vulnerability-disclosure.yml
   - type: DomainSecurity
