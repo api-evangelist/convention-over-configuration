@@ -190,6 +190,12 @@ apis:
       - Building documentation sites with little setup
       - Producing fast static sites with default conventions
 common:
+  - type: Plans
+    url: plans/convention-over-configuration-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/convention-over-configuration-rate-limits.yml
+  - type: FinOps
+    url: finops/convention-over-configuration-finops.yml
   - url: https://rubyonrails.org/blog/
     type: Blog
   - url: https://rubyonrails.org/feed.xml
