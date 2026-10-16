@@ -1,0 +1,21 @@
+{
+  "repo": "convention-over-configuration",
+  "feeds": [
+    {
+      "source": "https://rubyonrails.org/blog/",
+      "feed_url": "https://rubyonrails.org/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://rubyonrails.org/feed.xml",
+      "feed_url": "https://rubyonrails.org/feed.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
