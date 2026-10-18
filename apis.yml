@@ -62,7 +62,7 @@ apis:
     baseURL: https://rubyonrails.org
     tags:
       - Active Record
-      - Rails
+      - Ruby on Rails
       - Ruby
     tags_raw:
       - Active Record
