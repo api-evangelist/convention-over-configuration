@@ -1,4 +1,4 @@
-# Convention Over Configuration
+# convention-over-configuration
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,56 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Convention over Configuration (CoC) is a software design principle that prefers sensible defaults and standard patterns over explicit, repetitive configuration. Frameworks that adopt CoC reduce the number of decisions a developer must make to start a new project while still allowing overrides for non-standard cases. CoC was popularized by Ruby on Rails but predates Rails, drawing on UI principles like the principle of least astonishment and conventions in JavaBeans, Maven, and other Java ecosystems.
+## convention-over-configuration on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/convention-over-configuration/refs/heads/main/apis.yml)
+Everything profiled for convention-over-configuration is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/convention-over-configuration/](https://apis.io/providers/convention-over-configuration/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
-- Conventions, Design Principle, Frameworks, Software Design
+Not yet rated. See [apis.io/providers/convention-over-configuration/](https://apis.io/providers/convention-over-configuration/).
 
-## Timestamps
+## How this profile is made
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## APIs
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for convention-over-configuration: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-### Ruby on Rails
-The framework that popularized convention over configuration with ActiveRecord, RESTful routing, and an opinionated app/ directory layout.
+## Open an issue
 
-**Human URL:** [https://rubyonrails.org/](https://rubyonrails.org/)
-
-### Spring Boot
-Auto-configuration based on classpath, starter dependencies, and externalized configuration via application.yml/properties.
-
-**Human URL:** [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
-
-### Apache Maven
-Strict project layout (src/main/java, src/test/java, target/) and a convention-driven build lifecycle.
-
-**Human URL:** [https://maven.apache.org/](https://maven.apache.org/)
-
-### Next.js
-File-system-based routing with app/ conventions for layouts, loading, error boundaries, and API routes.
-
-**Human URL:** [https://nextjs.org/](https://nextjs.org/)
-
-### Hugo Static Site Generator
-Content, layouts, archetypes, and partials defined by directory convention.
-
-**Human URL:** [https://gohugo.io/](https://gohugo.io/)
-
-## Common Properties
-
-- [Wikipedia: Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration)
-- [Rails Doctrine](https://rubyonrails.org/doctrine)
-- [Spring Boot docs](https://docs.spring.io/spring-boot/index.html)
-- [Maven Standard Directory Layout](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
-- [Next.js docs](https://nextjs.org/docs)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/convention-over-configuration/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
